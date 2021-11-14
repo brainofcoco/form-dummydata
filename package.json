@@ -1,5 +1,5 @@
 {
-  "name": "cocodummyformdata",
+  "name": "cocodummyform",
   "version": "1.0.0",
   "description": "Dummy Form to help speed up your project",
   "main": "index.js",
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "dummyform",
-    "coco"
+    "coco",
+    "form",
+    "dummydata",
   ],
   "author": "brainofcoco",
   "license": "ISC",

@@ -2,7 +2,7 @@
 Dummy Data to fill your form dynamically
 
 # Installation
- `npm i cocodummyformdata --save` 
+ `npm i cocodummyform --save` 
 
 Then ...
 
