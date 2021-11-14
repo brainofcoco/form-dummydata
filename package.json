@@ -1,0 +1,23 @@
+{
+  "name": "cocodummyform",
+  "version": "1.0.0",
+  "description": "Dummy Form to help speed up your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainofcoco/form-dummydata.git"
+  },
+  "keywords": [
+    "dummyform",
+    "coco"
+  ],
+  "author": "brainofcoco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainofcoco/form-dummydata/issues"
+  },
+  "homepage": "https://github.com/brainofcoco/form-dummydata#readme"
+}

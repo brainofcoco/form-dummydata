@@ -1,15 +1,15 @@
-# CocoDummyFormData
+# cocodummyform
 Dummy Data to fill your form dynamically
 
 # Installation
- `npm i cocodummyformdata --save` 
+ `npm i cocodummyform --save` 
 
 Then ...
 
 ```
-import { cocodummyformdata } from 'cocodummyformdata';
+import { cocodummyform } from 'cocodummyform';
 
-cocodummyformdata({
+cocodummyform({
     input_type: 'name'
 })
 ```

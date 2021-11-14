@@ -1,4 +1,4 @@
-function cocodummyformdata (options) {
+function cocodummyform (options) {
     // pass input that have classes attached to them
     let input_form = document.querySelectorAll('.cocodummyform');
 
@@ -14,4 +14,4 @@ function cocodummyformdata (options) {
     })
 }
 
-module.exports.cocodummyformdata = cocodummyformdata;
+module.exports.cocodummyform = cocodummyform;
