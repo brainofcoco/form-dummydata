@@ -1,4 +1,4 @@
-# form-dummydata
+# CocoDummyFormData
 Dummy Data to fill your form dynamically
 
 # Installation
